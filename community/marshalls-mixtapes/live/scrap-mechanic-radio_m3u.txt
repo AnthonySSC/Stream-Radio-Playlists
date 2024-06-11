@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0,Scrap Mechanic Radio
+https://radio.toastertech.net/listen/scrapmechanic/radio.mp3
