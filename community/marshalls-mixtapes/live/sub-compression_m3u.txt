@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0,Sub Compression
+https://radio.toastertech.net/listen/subcompression/radio.mp3

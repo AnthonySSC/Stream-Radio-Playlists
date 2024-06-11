@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0,93.6 Counter Strike FM
+https://radio.toastertech.net/listen/cstrike/radio.mp3
